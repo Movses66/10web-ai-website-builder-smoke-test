@@ -35,12 +35,9 @@ Open Cypress Test Runner
 npx cypress open
 
 Then:
-<img width="1480" height="987" alt="image" src="https://github.com/user-attachments/assets/3f87b914-2b19-45c4-875f-57629b3a71a6" />
-
 Choose Browser
-<img width="1486" height="1000" alt="image" src="https://github.com/user-attachments/assets/7fdf61c0-3403-4e2d-8415-a4e5b38d580f" />
 Choose the spec
-<img width="1914" height="908" alt="image" src="https://github.com/user-attachments/assets/0bb72d0d-1c78-4ac5-8809-0b67ce8530d7" />
+10web_ai_website_builder_smoke.cy.js
 
 
 **Run tests headlessly**
