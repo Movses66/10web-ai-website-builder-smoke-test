@@ -41,7 +41,7 @@ Choose the spec
 
 
 **Run tests headlessly**
-npx cypress run --spec "cypress/e2e/10web_ai_website_builder_smoke.cy.js"
+npx cypress run --spec "cypress/e2e/smoke_test_10web.cy.js"
 
 
 **Test details **
